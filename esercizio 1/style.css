@@ -22,22 +22,37 @@ button {
 
 #primo {
     /* inserisci qui il codice per il primo elemento*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #secondo {
     /* inserisci qui il codice per il secondo elemento*/
+    display: flex;
+    justify-content:center;
+    align-items: center;
 }
 
 #terzo {
     /* inserisci qui il codice per il terzo elemento*/
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 #quarto {
     /* inserisci qui il codice per il quarto elemento*/
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 #quinto {
     /* inserisci qui il codice per il quinto elemento*/
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 #verde {
